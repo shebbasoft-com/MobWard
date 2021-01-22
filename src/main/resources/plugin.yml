@@ -1,0 +1,4 @@
+name: MobWard
+version: ${project.version}
+main: com.shebbasoft.MobWard
+api-version: 1.16
